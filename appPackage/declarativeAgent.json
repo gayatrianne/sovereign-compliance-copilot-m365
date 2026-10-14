@@ -1,0 +1,28 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/copilot/declarative-agent/v1.8/schema.json",
+    "version": "v1.8",
+    "name": "Sovereign Compliance Copilot",
+    "description": "FCA compliance specialist for Sovereign Bank compliance team",
+    "instructions": "$[file('instruction.txt')]",
+    "capabilities": [
+        {
+            "name": "OneDriveAndSharePoint",
+            "items_by_url": [
+                {
+                    "url": "https://copilot054.sharepoint.com/Shared%20Documents/AgentDocs/Advisor%20Knowledge%20Base/KB005-FCA-Suitability-Compliance.docx"
+                }
+            ]
+        }
+    ],
+    "conversation_starters": [
+        {
+            "text": "What are the FCA suitability requirements for retail investment recommendations?"
+        },
+        {
+            "text": "What must be included in a suitability report?"
+        },
+        {
+            "text": "What KYC information must be recorded before making a recommendation?"
+        }
+    ]
+}
