@@ -213,6 +213,8 @@ Do not answer general questions, provide personal financial advice, or discuss t
 
 Gayatri Anne — AI & Cloud Architect | 18+ Years Enterprise IT
 
-I build AI-powered automation systems that eliminate manual work from business processes. This project is part of a six-project portfolio demonstrating Microsoft Copilot Studio, Azure AI Foundry, and M365 Copilot extensibility skills aligned to UK AI/Cloud Architect job requirements.
+I build AI-powered automation systems that eliminate manual work from business
+processes. This project is part of a portfolio demonstrating Microsoft Copilot
+Studio, Azure AI Foundry, and M365 Copilot extensibility skills
 
 GitHub: [github.com/gayatrianne](https://github.com/gayatrianne)
